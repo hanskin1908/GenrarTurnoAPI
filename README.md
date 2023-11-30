@@ -29,8 +29,9 @@ Añade evidencia de prueba para escenarios donde se presenta un formato incorrec
 ![Logo de Mi Proyecto](ImagenesRead/imagen5.png)
 ![Logo de Mi Proyecto](ImagenesRead/imagen6.png)
 ### Notas Importantes
-![Logo de Mi Proyecto](ImagenesRead/imagen7.png)
-![Logo de Mi Proyecto](ImagenesRead/imagen8.png)
+
 - Si se envía una fecha que ya tiene turnos asignados, la base de datos devolverá un mensaje indicando que ya existe y mostrará solo los registros actuales ya existentes.
-  
+  ![Logo de Mi Proyecto](ImagenesRead/imagen7.png)
+
+![Logo de Mi Proyecto](ImagenesRead/imagen8.png)
 - Si se envía una fecha nueva que no tiene turnos asignados, se devolverá el total de registros asignados para ese servicio.
